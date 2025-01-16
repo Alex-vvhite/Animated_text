@@ -1,1 +1,1 @@
-https://alex-vvhite.github.io/animated_text/index.html
+https://alex-vvhite.github.io/Animated_text/index.html
